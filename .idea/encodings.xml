@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bot/BackCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bot/Bot.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bot/Commands.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bot/InvalidCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bot/RegisterCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bot/StartCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bot/WiFiCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dataBase/SQLAdder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dataBase/SQLConnection.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dataBase/SQLReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/fileManager/ReadFile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/fileManager/ReadSettings.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
